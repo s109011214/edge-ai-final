@@ -8,4 +8,5 @@ pip3 install huggingface-hub
 pip3 install gemlite==0.4.4
 pip3 install hqq==0.2.5
 pip3 install timm==1.0.15
-# pip3 install triton==3.2.0
+pip3 install triton==3.2.0
+pip3 install vllm
